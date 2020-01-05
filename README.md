@@ -2,6 +2,8 @@ CRUD con react (client side) usando react-router-dom y Json server, para generar
 
  npm start para correr el proyecto de react.
  
+ npm install -g json-server.
+ 
  json-server db.json -p 4000.
  
  mas info json server en : 
