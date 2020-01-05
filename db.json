@@ -1,0 +1,46 @@
+{
+  "restaurant": [
+    {
+      "nombre": "Torta Mario Andree",
+      "precio": "550",
+      "categoria": "postre",
+      "id": 3
+    },
+    {
+      "nombre": "Cocacola",
+      "precio": "5",
+      "categoria": "bebida",
+      "id": 4
+    },
+    {
+      "nombre": "Ensalada Cesar",
+      "precio": "100",
+      "categoria": "ensalada",
+      "id": 6
+    },
+    {
+      "nombre": "Yuve cake",
+      "precio": "250",
+      "categoria": "postre",
+      "id": 7
+    },
+    {
+      "nombre": "cookie jar",
+      "precio": "120",
+      "categoria": "postre",
+      "id": 8
+    },
+    {
+      "nombre": "ensalada mexicana",
+      "precio": "150",
+      "categoria": "ensalada",
+      "id": 9
+    },
+    {
+      "nombre": "PEPSi",
+      "precio": "7",
+      "categoria": "bebida",
+      "id": 10
+    }
+  ]
+}
